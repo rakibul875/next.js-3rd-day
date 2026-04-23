@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Wireless Mouse",
-      "price": 500,
+      "price": 2000,
       "category": "Electronics",
       "stock": 25,
       "description": "Smooth and responsive wireless mouse",
@@ -11,8 +11,8 @@
     },
     {
       "id": 2,
-      "name": "Bluetooth Headphones",
-      "price": 1500,
+      "name": "Electronics Headphones",
+      "price": 150,
       "category": "Electronics",
       "stock": 15,
       "description": "High quality sound with noise cancellation",
