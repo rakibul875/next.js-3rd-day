@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Mouse",
+      "price": 500,
+      "category": "Electronics",
+      "stock": 25,
+      "description": "Smooth and responsive wireless mouse",
+      "image": "https://i.ibb.co/1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Bluetooth Headphones",
+      "price": 1500,
+      "category": "Electronics",
+      "stock": 15,
+      "description": "High quality sound with noise cancellation",
+      "image": "https://i.ibb.co/2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Mechanical Keyboard",
+      "price": 2500,
+      "category": "Electronics",
+      "stock": 10,
+      "description": "RGB backlit mechanical keyboard",
+      "image": "https://i.ibb.co/3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Smart Watch",
+      "price": 3000,
+      "category": "Gadgets",
+      "stock": 20,
+      "description": "Track your fitness and notifications",
+      "image": "https://i.ibb.co/4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Backpack",
+      "price": 1200,
+      "category": "Accessories",
+      "stock": 30,
+      "description": "Durable and stylish backpack",
+      "image": "https://i.ibb.co/5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Running Shoes",
+      "price": 2200,
+      "category": "Fashion",
+      "stock": 18,
+      "description": "Comfortable running shoes for daily use",
+      "image": "https://i.ibb.co/6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Sunglasses",
+      "price": 800,
+      "category": "Fashion",
+      "stock": 40,
+      "description": "UV protected stylish sunglasses",
+      "image": "https://i.ibb.co/7.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Water Bottle",
+      "price": 300,
+      "category": "Lifestyle",
+      "stock": 50,
+      "description": "Eco-friendly reusable water bottle",
+      "image": "https://i.ibb.co/8.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Desk Lamp",
+      "price": 900,
+      "category": "Home",
+      "stock": 22,
+      "description": "LED desk lamp with adjustable brightness",
+      "image": "https://i.ibb.co/9.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Power Bank",
+      "price": 1300,
+      "category": "Electronics",
+      "stock": 27,
+      "description": "Fast charging 10000mAh power bank",
+      "image": "https://i.ibb.co/10.jpg"
+    }
+  ]
+}
